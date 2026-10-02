@@ -1,2 +1,2 @@
-# hotel-rating-analysis-excel
-Hotel Rating Analysis using Microsoft Excel
+# KFC-sales-analysis-rating-analysis-excel
+KFC sales Analysis using Microsoft Excel
