@@ -1,5 +1,5 @@
 # KFC-Sales-Analysis-Excel
-KFC sales Analysis using Microsoft Excel
+Analyzed KFC data in Excel to identify sales trends and key insights.
 # KFC Sales Analysis Dashboard using Excel
 
 ## 📌 Project Overview
