@@ -18,6 +18,9 @@ An interactive Excel dashboard was created to transform raw sales data into mean
 - Identify high and low sales periods
 - Create an interactive sales dashboard
 
+## Project Domain
+- Food & Retail
+
 ## 🛠️ Tools & Technologies
 
 - Microsoft Excel
