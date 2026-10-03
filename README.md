@@ -1,4 +1,4 @@
-# KFC-sales-analysis-excel
+# KFC-Sales-Analysis-Excel
 KFC sales Analysis using Microsoft Excel
 # KFC Sales Analysis Dashboard using Excel
 
